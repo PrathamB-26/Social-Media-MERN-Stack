@@ -10,7 +10,7 @@ npm install
 cd ../backend
 npm install
 
-## RUN in 
+## RUN at local server 
 npm run dev
 
 Make your own .env file inside the backend
