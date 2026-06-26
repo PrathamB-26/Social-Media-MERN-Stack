@@ -13,12 +13,6 @@ npm install
 ## RUN in 
 npm run dev
 
-## The application will be available at:
-
-Frontend: http://localhost:5173
-Backend: http://localhost:8000
-
-
 Make your own .env file inside the backend
 with your own url of mongodb database i used compass server
 Also the Cloudinary is used for API whoose details are stored inside .env
